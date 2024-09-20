@@ -1,0 +1,5 @@
+<svg id="Component_1_435" data-name="Component 1 – 435" xmlns="http://www.w3.org/2000/svg" width="220" height="55" viewBox="0 0 220 55">
+  <rect id="Rectangle_675" data-name="Rectangle 675" width="220" height="55" rx="10" fill="#24b270"/>
+  <path id="Path_arrow-down-bold" data-name="Path / arrow-down-bold" d="M10.093,4h7.355v9.807h5.933l-9.611,9.611L4.16,13.807h5.933Z" transform="translate(111.943 41.423) rotate(-90)" fill="#fff"/>
+  <path id="Path_home-circle" data-name="Path / home-circle" d="M30.092,6.823A15.741,15.741,0,0,0,18.457,2,15.7,15.7,0,0,0,6.839,6.823,15.694,15.694,0,0,0,2,18.457,15.7,15.7,0,0,0,6.823,30.076a15.694,15.694,0,0,0,11.635,4.838,15.7,15.7,0,0,0,11.618-4.822,15.694,15.694,0,0,0,4.838-11.635A15.741,15.741,0,0,0,30.092,6.823M26.686,18.457v9.874h-5.76V20.1H15.989v8.228h-5.76V18.457H6.938l11.52-11.52L30.8,18.457Z" transform="translate(82.639 9.043)" fill="#fff"/>
+</svg>
